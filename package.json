@@ -1,0 +1,24 @@
+{
+  "name": "learning_bootstrap",
+  "version": "1.0.0",
+  "description": "I am learning Bootstrap",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OsamaAbrar25/learning_bootstrap.git"
+  },
+  "author": "Osama Abrar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OsamaAbrar25/learning_bootstrap/issues"
+  },
+  "homepage": "https://github.com/OsamaAbrar25/learning_bootstrap#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
